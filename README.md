@@ -13,7 +13,7 @@
 This repository contains the following directories:
 
 - **LABS**: Contains lab exercises and assignments.
-- **QUIZES**: Contains quizzes and related materials.
+- **QUIZES**: Contains quiz solutions.
 
 
 
