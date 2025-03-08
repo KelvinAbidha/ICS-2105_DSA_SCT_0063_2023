@@ -7,7 +7,7 @@ def sum(arr):
     
 def max(arr):
     max = arr[0]
-    for num in arr:
+    for num in arr[1:]:
         if num > max :
             max = num
         return max
