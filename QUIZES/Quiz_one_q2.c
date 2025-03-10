@@ -2,8 +2,8 @@
 
 #include <stdio.h>
 
-// Function to reverse a portion of the array
-void reverse(int* nums, int start, int end) {
+void reverse(int* nums, int start, int end) // Function to reverse a portion of the array
+{
     while (start < end) {
         int temp = nums[start];
         nums[start] = nums[end];
