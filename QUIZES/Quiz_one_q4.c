@@ -1,3 +1,5 @@
+//Question Four (4) - Single Number
+
 #include <stdio.h>
 
 // Function to find the single number
