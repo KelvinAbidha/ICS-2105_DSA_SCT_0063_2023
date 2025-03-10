@@ -1,3 +1,5 @@
+//Question Two (2) - Rotate Array
+
 #include <stdio.h>
 
 // Function to reverse a portion of the array
