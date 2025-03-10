@@ -1,3 +1,5 @@
+//Question Three (3) - Contains Duplicate
+
 #include <stdio.h>
 
 // Function to sort an array using Bubble Sort
