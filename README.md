@@ -1,4 +1,4 @@
-# DSA ICS-2105 SCT - 0063/2023 Repo
+# DSA ICS-2105 SCT 212 - 0063/2023 Repo
 
 ## Student Information
 **Name:** Kelvin Abidha  
