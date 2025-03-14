@@ -26,6 +26,7 @@ int main() {
 
     rotate(nums, numsSize, k);
 
+    
     printf("Rotated array: ");
     for (int i = 0; i < numsSize; i++) {
         printf("%d ", nums[i]);
