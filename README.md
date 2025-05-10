@@ -6,8 +6,8 @@
 
 ## Course Information
 **Course:** Data Structures and Algorithms (DSA)  
-**Instructor:** [Dr Mulang Onando]  
-**Semester:** [2.2]
+**Instructor:** Dr Mulang Onando  
+**Semester:** 2.2
 
 ## Repository Structure
 This repository contains the following directories:
